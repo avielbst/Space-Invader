@@ -62,7 +62,7 @@ weapon1.penup()
 weapon1.shapesize(0.5, 0.5)
 weapon1.setposition(0, -400)
 weapon1.hideturtle()
-w1speed = 35
+w1speed = 15
 bulletstate = "ready"
 
 
